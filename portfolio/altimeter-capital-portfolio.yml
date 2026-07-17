@@ -1,0 +1,294 @@
+generated: '2026-07-17'
+method: searched
+source: https://en.wikipedia.org/wiki/Altimeter_Capital
+summary:
+  portfolio_total: 26
+  in_network: 22
+  api_providers: 17
+  missing: 4
+  stubs_created: 0
+companies:
+- name: Snowflake
+  url: https://www.snowflake.com
+  description: Cloud data warehouse and data platform; Altimeter's largest pre-IPO win.
+  sector: data-infrastructure
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: snowflake
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Confluent
+  url: https://www.confluent.io
+  description: Data streaming platform built around Apache Kafka.
+  sector: data-infrastructure
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: confluent
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Okta
+  url: https://www.okta.com
+  description: Identity and access management platform.
+  sector: security
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: okta
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: UiPath
+  url: https://www.uipath.com
+  description: Robotic process automation and AI automation platform.
+  sector: automation
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: uipath
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: GitLab
+  url: https://about.gitlab.com
+  description: DevOps and DevSecOps platform for the software development lifecycle.
+  sector: developer-tools
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: gitlab
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Unity Technologies
+  url: https://unity.com
+  description: Real-time 3D development platform for games and interactive content.
+  sector: gaming
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: unity
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Roblox
+  url: https://www.roblox.com
+  description: Online gaming and user-generated content platform.
+  sector: gaming
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: roblox
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: SoFi
+  url: https://www.sofi.com
+  description: Consumer fintech offering lending, banking, and investing.
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: sofi
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Plaid
+  url: https://plaid.com
+  description: Financial data network connecting apps to bank accounts.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: plaid
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ByteDance
+  url: https://www.bytedance.com
+  description: Technology company behind TikTok and a portfolio of content and AI platforms.
+  sector: consumer-internet
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bytedance
+- name: Epic Games
+  url: https://www.epicgames.com
+  description: Game developer and Unreal Engine maker behind Fortnite.
+  sector: gaming
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: epic-games
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Grab
+  url: https://www.grab.com
+  description: Southeast Asian super-app for ride-hailing, delivery, and financial services.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  lead: true
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: grab
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: AppDynamics
+  url: https://www.appdynamics.com
+  description: Application performance monitoring platform (acquired by Cisco).
+  sector: observability
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: appdynamics
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: 23andMe
+  url: https://www.23andme.com
+  description: Consumer genetics and personal genomics company.
+  sector: healthtech
+  stage: growth
+  status: unknown
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 23andme
+- name: Anthropic
+  url: https://www.anthropic.com
+  description: AI safety company building the Claude family of large language models.
+  sector: artificial-intelligence
+  stage: growth
+  status: active
+  source: https://www.insidermonkey.com/hedge-fund/altimeter+capital+management/509/
+  slug: anthropic
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Baseten
+  url: https://www.baseten.co
+  description: Infrastructure for deploying and serving machine learning models.
+  sector: ai-infrastructure
+  stage: growth
+  status: active
+  source: https://www.insidermonkey.com/hedge-fund/altimeter+capital+management/509/
+  slug: baseten
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: dbt Labs
+  url: https://www.getdbt.com
+  description: Analytics engineering platform for transforming data in the warehouse.
+  sector: data-infrastructure
+  stage: growth
+  status: active
+  lead: true
+  source: https://growthequityinterviewguide.com/firms/altimeter
+  slug: data-modeling
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Prisma
+  url: https://www.prisma.io
+  description: Next-generation ORM and data layer tooling for application developers.
+  sector: developer-tools
+  stage: growth
+  status: active
+  source: https://growthequityinterviewguide.com/firms/altimeter
+  slug: prisma
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Samooha
+  url: https://www.samooha.com
+  description: Data clean-room collaboration platform (acquired by Snowflake).
+  sector: data-infrastructure
+  stage: growth
+  status: acquired
+  source: https://growthequityinterviewguide.com/firms/altimeter
+  in_network: false
+  is_api_provider: false
+  suggested_slug: samooha
+- name: Reify Health
+  url: https://www.reifyhealth.com
+  description: Clinical trial technology platform for accelerating study enrollment.
+  sector: healthtech
+  stage: growth
+  status: active
+  source: https://growthequityinterviewguide.com/firms/altimeter
+  in_network: false
+  is_api_provider: false
+  suggested_slug: reify-health
+- name: Uber
+  url: https://www.uber.com
+  description: Global mobility and delivery platform.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: uber
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Twilio
+  url: https://www.twilio.com
+  description: Cloud communications platform and messaging APIs.
+  sector: communications
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: twilio
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: HubSpot
+  url: https://www.hubspot.com
+  description: Inbound marketing, sales, and CRM platform.
+  sector: martech
+  stage: public
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: hubspot
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Expedia
+  url: https://www.expedia.com
+  description: Online travel booking platform.
+  sector: travel
+  stage: public
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: expedia
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Booking Holdings
+  url: https://www.bookingholdings.com
+  description: Online travel company (Priceline / Booking.com).
+  sector: travel
+  stage: public
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: booking-holdings
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: FTX
+  url: https://www.ftx.com
+  description: Cryptocurrency exchange (collapsed and bankrupt in 2022).
+  sector: crypto
+  stage: growth
+  status: dead
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  slug: ftx
+  in_network: true
+  is_api_provider: false
+  matched_by: domain

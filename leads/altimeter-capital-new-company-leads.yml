@@ -1,0 +1,32 @@
+generated: '2026-07-17'
+method: derived
+source_vc: altimeter-capital
+leads:
+- name: ByteDance
+  url: https://www.bytedance.com
+  suggested_slug: bytedance
+  sector: consumer-internet
+  source_vc: altimeter-capital
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  stub_created: false
+- name: 23andMe
+  url: https://www.23andme.com
+  suggested_slug: 23andme
+  sector: healthtech
+  source_vc: altimeter-capital
+  source: https://en.wikipedia.org/wiki/Altimeter_Capital
+  stub_created: false
+- name: Samooha
+  url: https://www.samooha.com
+  suggested_slug: samooha
+  sector: data-infrastructure
+  source_vc: altimeter-capital
+  source: https://growthequityinterviewguide.com/firms/altimeter
+  stub_created: false
+- name: Reify Health
+  url: https://www.reifyhealth.com
+  suggested_slug: reify-health
+  sector: healthtech
+  source_vc: altimeter-capital
+  source: https://growthequityinterviewguide.com/firms/altimeter
+  stub_created: false
