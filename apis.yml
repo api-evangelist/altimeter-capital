@@ -15,6 +15,17 @@ description: >-
   Baseten, and Anthropic. Reported assets under management have ranged from roughly $6.75B (Sep 2024) to
   higher figures across sources; Altimeter self-describes as "a technology-focused investment firm built by
   a founder for founders."
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.altimeter.com/favicon.ico
 x-type: venture-capital
 x-category: Growth Equity

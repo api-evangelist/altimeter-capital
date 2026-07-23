@@ -3,9 +3,9 @@ method: searched
 source: https://en.wikipedia.org/wiki/Altimeter_Capital
 summary:
   portfolio_total: 26
-  in_network: 22
+  in_network: 26
   api_providers: 17
-  missing: 4
+  missing: 0
   stubs_created: 0
 companies:
 - name: Snowflake
@@ -114,9 +114,10 @@ companies:
   stage: growth
   status: active
   source: https://en.wikipedia.org/wiki/Altimeter_Capital
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bytedance
+  slug: bytedance
+  matched_by: domain
 - name: Epic Games
   url: https://www.epicgames.com
   description: Game developer and Unreal Engine maker behind Fortnite.
@@ -158,9 +159,10 @@ companies:
   stage: growth
   status: unknown
   source: https://en.wikipedia.org/wiki/Altimeter_Capital
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 23andme
+  slug: 23andme
+  matched_by: domain
 - name: Anthropic
   url: https://www.anthropic.com
   description: AI safety company building the Claude family of large language models.
@@ -213,9 +215,10 @@ companies:
   stage: growth
   status: acquired
   source: https://growthequityinterviewguide.com/firms/altimeter
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: samooha
+  slug: samooha
+  matched_by: domain
 - name: Reify Health
   url: https://www.reifyhealth.com
   description: Clinical trial technology platform for accelerating study enrollment.
@@ -223,9 +226,10 @@ companies:
   stage: growth
   status: active
   source: https://growthequityinterviewguide.com/firms/altimeter
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reify-health
+  slug: reify-health
+  matched_by: domain
 - name: Uber
   url: https://www.uber.com
   description: Global mobility and delivery platform.
