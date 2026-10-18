@@ -3,9 +3,9 @@ method: searched
 source: https://en.wikipedia.org/wiki/Altimeter_Capital
 summary:
   portfolio_total: 26
-  in_network: 26
-  api_providers: 17
-  missing: 0
+  in_network: 25
+  api_providers: 18
+  missing: 1
   stubs_created: 0
 companies:
 - name: Snowflake
@@ -92,9 +92,9 @@ companies:
   stage: growth
   status: ipo
   source: https://en.wikipedia.org/wiki/Altimeter_Capital
-  slug: sofi
+  slug: sofi-technologies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Plaid
   url: https://plaid.com
@@ -270,10 +270,9 @@ companies:
   stage: public
   status: ipo
   source: https://en.wikipedia.org/wiki/Altimeter_Capital
-  slug: expedia
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: domain
+  suggested_slug: expedia
 - name: Booking Holdings
   url: https://www.bookingholdings.com
   description: Online travel company (Priceline / Booking.com).
